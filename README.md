@@ -1,7 +1,6 @@
 # 백앤드 개발자의 미니 홈페이지
 
-## 11시 입니다.
-
-## 점심 뭐 먹지~?
-
-## 점메추!
+## git add README.md
+## git commit -m "저장할 이름"
+## git push origin main
+## git pull origin main
