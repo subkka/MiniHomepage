@@ -6,3 +6,5 @@
 ### git pull origin main
 
 ## GUI 작업
+-커밋
+-푸시
